@@ -1,0 +1,89 @@
+* {
+    margin: 0;
+    padding: 0; }
+
+
+header {
+    background-color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+
+}
+
+body {
+    background-image: url(images/background.jpg)
+}
+
+iframe {
+    padding-left: 80px;
+}
+
+footer {
+    background-color: black;
+   
+}
+
+
+.titulo  {
+  
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 100px;
+    background-color: rgb(247, 244, 244);
+   
+
+}
+
+.subtitulo {
+  
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+
+}
+
+p {
+  
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    background-color: rgb(247, 244, 244);
+
+}
+
+a {
+  color: azure;
+
+}
+
+.formulario {
+    padding-top: 50px;
+    padding-left: 500px;
+    background-color: rgb(247, 244, 244);
+    border: 0;
+    
+}
+
+iframe {
+    padding-left: 300px;
+    padding-bottom: 50px;
+}
+
+.tituloubicacion {
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    background-color: rgb(247, 244, 244);
+}
+
+.productosimagenes {
+    
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+
+
+
+}
